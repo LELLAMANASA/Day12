@@ -1,0 +1,6 @@
+{
+  "name": "React Lab & Learning Hub",
+  "description": "An interactive, beautifully designed education and development portal showcasing 25+ React components, state challenges, student dashboard, shopping cart, quiz, and research documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
